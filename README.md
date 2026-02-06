@@ -19,41 +19,10 @@ Each folder represents hands-on practice after learning a concept, with a focus 
 ml-ai-projects/
 │
 ├── Python/
-│   │
 │   ├── Basics/
-│   │   ├── rock_paper_scissors/
-│   │   ├── loops_practice/
-│   │   ├── hangman_game/
-│   │   ├── caesar_cipher_and_functions/
-│   │   ├── dictionaries_and_nesting/
-│   │   ├── functions_with_outputs/
-│   │   └── number_guessing_game/
-│   │
 │   ├── Intermediate/
-│   │   ├── coffee_machine_cli/
-│   │   ├── pandas_data_analysis/
-│   │   │   ├── squirrel_census_analysis/
-│   │   │   └── us_states_game/
-│   │   ├── list_comprehension/
-│   │   │   └── nato_alphabet/
-│   │   ├── tkinter_gui_apps/
-│   │   │   └── mile_to_km_converter/
-│   │   ├── password_manager/
-│   │   ├── automation_and_apis/
-│   │   │   ├── birthday_wisher/
-│   │   │   ├── iss_overhead_notifier/
-│   │   │   └── kanye_quotes_app/
-│   │   ├── web_scraping/
-│   │   ├── automation_bots/
-│   │   └── spotify_playlist_generator/
-│   │
 │   ├── Data_Structures/
-│   │   └── arrays/
-│   │
 │   ├── OOP/
-│   │   ├── coffee_machine_oop/
-│   │   └── quiz_game_oop/
-│   │
 │   └── Advanced/
 │
 ├── Machine_Learning/
