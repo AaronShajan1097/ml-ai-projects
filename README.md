@@ -122,7 +122,7 @@ ml-ai-projects/
 1. Clone the repository
 
    ```
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/AaronShajan1097/ml-ai-projects.git
    ```
    
 3. Navigate to any project folder
@@ -152,5 +152,3 @@ ml-ai-projects/
 **Aaron Shajan**
 Aspiring **AI / ML Engineer**
 Python • Artificial Intelligence • Machine Learning
-
----
