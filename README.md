@@ -122,4 +122,4 @@ ml-ai-projects/
 
 Aspiring **AI / ML Engineer**
 
-Python • Artificial Intelligence • Machine Learning
+• Artificial Intelligence • Machine Learning • Python 
