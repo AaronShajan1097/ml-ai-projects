@@ -119,5 +119,7 @@ ml-ai-projects/
 ## 👤 Author
 
 **Aaron Shajan**
+
 Aspiring **AI / ML Engineer**
+
 Python • Artificial Intelligence • Machine Learning
