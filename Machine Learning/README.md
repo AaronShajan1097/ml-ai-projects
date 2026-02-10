@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-This folder contains my **Machine Learning learning journey**, where I apply
+This folder contains my journey of learning **Machine Learning**, where I apply
 theoretical concepts by building hands-on projects using real-world datasets.
 
 Each project is created after learning the underlying mathematics, intuition,
