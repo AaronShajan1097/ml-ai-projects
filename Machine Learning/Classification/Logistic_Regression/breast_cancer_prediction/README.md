@@ -88,11 +88,13 @@ Therefore, **Recall is more important than Accuracy** in this healthcare use cas
 
 # 📂 Project Structure
 
-spam-email-classifier
+```
+breast_cancer_prediction
 │
-  ├── emails.csv
-  ├── spam_email_classifier.ipynb
-  ├── README.md
+├── breast-cancer.csv
+├── Breast_Cancer_Prediction.ipynb
+├── README.md
+```
 
 ---
 
