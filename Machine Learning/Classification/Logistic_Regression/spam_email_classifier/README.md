@@ -5,6 +5,18 @@ The model is trained on email word-frequency features and evaluated using multip
 
 ---
 
+# 📌 Problem Statement
+
+Email spam is a major issue that affects communication and productivity. Spam emails often contain advertisements, phishing links, or malicious content that can compromise user security.
+
+The goal of this project is to build a machine learning model that can automatically classify emails as Spam or Not Spam based on their features.
+
+Using the Logistic Regression algorithm, we train a classifier on an email dataset and evaluate its performance using various metrics such as accuracy, precision, recall, confusion matrix, and ROC-AUC score.
+
+This model helps demonstrate how machine learning techniques can be applied to solve real-world problems such as spam detection in email systems.
+
+---
+
 # 🚀 Project Overview
 
 Email spam detection is a common **binary classification problem** in machine learning.
