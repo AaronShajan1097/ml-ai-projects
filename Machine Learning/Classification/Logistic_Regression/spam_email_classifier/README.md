@@ -1,4 +1,4 @@
-# 📧 Spam Email Classification using Logistic Regression
+# 📧 Spam Email Classifier using Logistic Regression
 
 A Machine Learning project that classifies emails as **Spam or Not Spam** using **Logistic Regression**.
 The model is trained on email word-frequency features and evaluated using multiple performance metrics.
@@ -117,7 +117,7 @@ These visualizations help interpret model performance.
 spam-email-classifier
 │
 ├── emails.csv
-├── spam_classifier.ipynb
+├── spam_email_classifier.ipynb
 ├── README.md
 ```
 
@@ -139,7 +139,7 @@ spam-email-classifier
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/spam-email-classifier.git
+git clone https://github.com/your-username/spam_email_classifier.git
 ```
 
 ### 2. Install required libraries
@@ -154,7 +154,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 jupyter notebook
 ```
 
-Open **spam_classifier.ipynb** and run all cells.
+Open **spam_email_classifier.ipynb** and run all cells.
 
 ---
 
