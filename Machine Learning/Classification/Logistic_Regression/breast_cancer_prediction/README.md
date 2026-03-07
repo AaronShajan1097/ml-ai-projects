@@ -86,6 +86,16 @@ Therefore, **Recall is more important than Accuracy** in this healthcare use cas
 
 ---
 
+# 📂 Project Structure
+
+spam-email-classifier
+│
+  ├── emails.csv
+  ├── spam_email_classifier.ipynb
+  ├── README.md
+
+---
+
 # 🎯 Learning Outcomes
 
 - Implemented Logistic Regression for binary classification
