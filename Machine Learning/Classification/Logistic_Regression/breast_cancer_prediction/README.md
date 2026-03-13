@@ -72,7 +72,6 @@ If a malignant tumor is classified as benign:
 
 Therefore, **Recall is more important than Accuracy** in this healthcare use case.
 
-
 ---
 
 # 🛠 Technologies Used

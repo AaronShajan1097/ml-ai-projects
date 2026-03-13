@@ -134,30 +134,6 @@ spam-email-classifier
 
 ---
 
-# ▶️ How to Run the Project
-
-### 1. Clone the repository
-
-```
-git clone https://github.com/your-username/spam_email_classifier.git
-```
-
-### 2. Install required libraries
-
-```
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
-### 3. Run the notebook
-
-```
-jupyter notebook
-```
-
-Open **spam_email_classifier.ipynb** and run all cells.
-
----
-
 # 🎯 Learning Outcome
 
 Through this project, the following concepts were learned:
